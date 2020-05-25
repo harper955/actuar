@@ -1,7 +1,7 @@
-# actuary
+# actuar
 [![Travis-CI Build Status](https://travis-ci.org/vigou3/actuar.svg?branch=master)](https://travis-ci.org/vigou3/actuar) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/actuar)](https://cran.r-project.org/package=actuar) ![downloads](http://cranlogs.r-pkg.org/badges/grand-total/actuar)
 
-**actuary** is a package providing additional actuarial science
+**actuar** is a package providing additional actuarial science
 functionality to the [R](https://r-project.org) statistical system.
 The project was officially launched in 2005 and is under active
 development.
